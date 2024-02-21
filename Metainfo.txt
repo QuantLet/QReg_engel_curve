@@ -1,0 +1,16 @@
+Name of Quantlet: 'QReg_engel_curve'
+
+Published in: 'QReg_engel_curve'
+
+Description: 'Household expenditure on food versus annual income. Different estimated slope of Engel curve based on Quantile Regression.'
+
+Submitted: '21 Feb 2024'
+
+Keywords: 
+	'-Quantile Regression 
+	 -Food Expenditure
+	 -Income
+	 -Estimation 
+	 -Engel Curve'
+
+Author: 'Alexandra Conda'
